@@ -1,0 +1,6 @@
+name: RanBOXMain
+version: 1.0.3
+main: org.oreoprojekt.ranboxmain.RanBOXMain
+api-version: 1.16
+commands:
+  giveranbox:
